@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="support">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/appinventor/lib/android/support/testing-support-R-classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/appinventor/lib/android/support/appcompat-v7-22.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/appinventor/lib/android/support/support-annotations-22.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/appinventor/lib/android/support/support-v4-22.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/appinventor/lib/android/support/internal_impl-22.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
